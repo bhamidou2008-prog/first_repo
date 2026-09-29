@@ -1,0 +1,7 @@
+names = ['Finland', 'Sweden', 'Norway','Denmark','Iceland', 'Estonia','Russia']
+store= names[1:5]
+empty=[]
+for i in store :
+    empty.append(i)
+print(empty)
+
